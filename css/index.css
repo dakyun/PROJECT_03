@@ -903,4 +903,8 @@ footer .footer-box #copyright {
     text-align: center;
   }
 }
+
+footer .valid_box {
+  padding: 2rem 0;
+}
 /*# sourceMappingURL=index.css.map */
