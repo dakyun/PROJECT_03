@@ -184,6 +184,7 @@
     iframe{
         width:60vw;
         height:30vw;
+        border:none;
         @include mq('small-screen-2'){
             width:70vw;
             height:35vw;
